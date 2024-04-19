@@ -11,3 +11,6 @@ https://public.tableau.com/views/CovidDashboard_17130669897500/Dashboard1?:langu
 
 Limpieza y Estandarización de Datos 
 Descripción: En este proyecto, se empleó un dataset que detalla las transacciones de compra y venta de diversas propiedades inmobiliarias. El objetivo principal fue llevar a cabo un exhaustivo proceso de limpieza y estandarización de estos datos Se aplicaron técnicas para corregir errores, eliminar duplicados, estandarizar formatos y enriquecer la calidad general de los datos. El resultado final fue un conjunto de datos limpios y coherentes, listos para su análisis posterior y la generación de insights relevantes para el mercado inmobiliario.
+
+Análisis de Correlación de Películas
+Descripción: En este proyecto, se trabajo en Python para encontrar correlaciones entre variables en un conjunto de datos que contiene información sobre películas. El objetivo principal será identificar relaciones y patrones entre diferentes características de las películas, como el género, la duración, la calificación, el presupuesto, etc. Este análisis de correlación nos ayudará a comprender mejor qué factores pueden influir en el éxito o la popularidad de una película.
