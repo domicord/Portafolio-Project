@@ -14,3 +14,7 @@ Descripción: En este proyecto, se empleó un dataset que detalla las transaccio
 
 Análisis de Correlación de Películas
 Descripción: En este proyecto, se trabajo en Python para encontrar correlaciones entre variables en un conjunto de datos que contiene información sobre películas. El objetivo principal será identificar relaciones y patrones entre diferentes características de las películas, como el género, la duración, la calificación, el presupuesto, etc. Este análisis de correlación nos ayudará a comprender mejor qué factores pueden influir en el éxito o la popularidad de una película.
+
+Salifort Motors RRHH Análisis
+El departamento de Recursos Humanos de la empresa Salifort Motors se encuentra en la búsqueda de estrategias para mejorar la satisfacción laboral y reducir la rotación de personal. La principal inquietud del departamento es entender qué factores influyen en la decisión de un empleado de abandonar la empresa. El objetivo del proyecto es analizar los datos disponibles y desarrollar un modelo predictivo que permita anticipar posibles renuncias, facilitando así la toma de decisiones proactivas orientadas a la retención del talento y la optimización de recursos humanos, utilizando modelos basados en árboles de decisión y radom forest.
+
